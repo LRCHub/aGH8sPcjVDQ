@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ステイ・アウェイ",
+  "base_artist": "Nirvana",
+  "createdAt": "2026-02-16T11:59:04.935943Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay Away",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_Away_Nirvana.txt"
+    }
+  ]
+}
